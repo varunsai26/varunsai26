@@ -19,7 +19,6 @@ This GitHub profile is a reflection of my coding journey, featuring projects and
 * **Data Management & Caching:** Implementations and experiments with MySQL for relational data and Redis for in-memory caching solutions.
 * **Python for Data Science & Machine Learning:** Explorations in data analysis, model building, and projects utilizing Python and the scikit-learn library.
 * **Search Functionality:** Integration and utilization of Solr to build powerful and relevant search features.
-* **[Add Other Relevant Areas Here - e.g., Algorithms, Personal Projects, Contributions to Open Source]**
 
 ## Skills
 
