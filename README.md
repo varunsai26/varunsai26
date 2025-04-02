@@ -41,7 +41,7 @@ Solr
 
 
 **Tools/Technologies:**
-Git, Maven, RESTful APIs, [Add Other Tools You Use - e.g., Docker, IntelliJ IDEA, VS Code, Postman]
+Git, Maven, RESTful APIs, Docker, Eclipse, VS Code, Postman
 
 
 ## Let's Connect!
