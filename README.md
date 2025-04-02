@@ -8,7 +8,7 @@
 
 A passionate aspiring full-stack developer based in Hyderabad, India, with a strong foundation in Java and a drive to build robust and scalable applications. My interests lie in crafting efficient back-end systems and engaging modern front-end experiences.
 
-I'm currently focused on mastering the synergy of Spring Boot and React with Vite to develop high-performance and user-friendly solutions. I'm also actively exploring the power of Redis for caching and Solr for advanced search capabilities, alongside my expertise in MySQL.
+I'm currently focused on mastering the synergy of Spring Boot and React with Vite for web development, while also exploring data-driven solutions using Python and the scikit-learn library. I'm actively investigating the capabilities of Redis for caching and Solr for advanced search, alongside my expertise in MySQL.
 
 ## What You'll Find Here
 
@@ -17,6 +17,7 @@ This GitHub profile is a reflection of my coding journey, featuring projects and
 * **Java & Spring Boot Back-end:** Repositories showcasing RESTful APIs, data handling, and architectural patterns using Java, Spring, and Spring Boot.
 * **React & Vite Front-end:** Projects demonstrating modern and efficient user interface development with React, accelerated by Vite.
 * **Data Management & Caching:** Implementations and experiments with MySQL for relational data and Redis for in-memory caching solutions.
+* **Python for Data Science & Machine Learning:** Explorations in data analysis, model building, and projects utilizing Python and the scikit-learn library.
 * **Search Functionality:** Integration and utilization of Solr to build powerful and relevant search features.
 * **[Add Other Relevant Areas Here - e.g., Algorithms, Personal Projects, Contributions to Open Source]**
 
@@ -25,12 +26,10 @@ This GitHub profile is a reflection of my coding journey, featuring projects and
 Here's a quick overview of my technical skills:
 
 **Languages:**
-Java, JavaScript
-
+Java, JavaScript, Python
 
 **Frameworks/Libraries:**
-Spring, Spring Boot, React, Vite
-
+Spring, Spring Boot, React, Vite, scikit-learn, numpy ,pandas
 
 **Databases/Caching:**
 MySQL, Redis
@@ -41,7 +40,7 @@ Solr
 
 
 **Tools/Technologies:**
-Git, Maven, RESTful APIs, Docker, Eclipse, VS Code, Postman
+Git, Maven,Jupyter Notebook, RESTful APIs, Docker, Eclipse, VS Code, Postman
 
 
 ## Let's Connect!
